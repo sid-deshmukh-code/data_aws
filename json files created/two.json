@@ -1,0 +1,3976 @@
+[
+    {
+        "question": "Maintenance in hazardous area should not be started without",
+        "options": {
+            "A": "having food",
+            "B": "enough tools",
+            "C": "work permit",
+            "D": "None of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Dos and don'ts at the work station are \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Rules to be followed",
+            "B": "Safety symbols",
+            "C": "Work permits",
+            "D": "None of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Ensuring fire alarm system back to normal operating condition shall be done \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Before fire drill",
+            "B": "During fire drill",
+            "C": "After fire drill",
+            "D": "All of the above"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Paper and clothes are: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Flammable solid materials",
+            "B": "Flammable liquid materials",
+            "C": "Flammable gas materials",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Objective of fire drill is to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Avoide fire in industry",
+            "B": "Practice how to behave in emergency",
+            "C": "Carry repairs in fire equipements",
+            "D": "All of above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Accident affects \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Worker",
+            "B": "Management",
+            "C": "Industry",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Chemical leakage, poor electrification, weak machine foundations are the causes of accidents due to\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "worker",
+            "B": "Nature",
+            "C": "Unsafe working condition",
+            "D": "All of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Causes of accident due to worker are \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Stress in work, un-necessary daring",
+            "B": "poor house keeping",
+            "C": "poor illumination",
+            "D": "All of above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Land sliding is a type of accident  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "On construction site, mines",
+            "B": "In chemical plant, production industry",
+            "C": "In mines, chemical industry",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Tools required for safety are: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Mobile, helmet, safety shoes",
+            "B": "Helmet, safety shoes, goggle",
+            "C": "Goggle, mobile, safety shoes",
+            "D": "None of above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Safety management is a department for \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Designing policies about sale",
+            "B": "Designing policies to avoide accidents",
+            "C": "Designing policies to increase production",
+            "D": "All of the above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Fire hazards are \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Human hazards",
+            "B": "Natural hazards",
+            "C": "Workplace hazards",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Fire drill shall be done \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Once in a week",
+            "B": "Once in a week",
+            "C": "Once in a quarter",
+            "D": "Once in an year"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Accident due to unsafe workplace is \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Due to management",
+            "B": "Natural",
+            "C": "Due to worker",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Industrial accident causes damage to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Property, material, human",
+            "B": "Human, work station, nature",
+            "C": "Atmosphere, property, trees",
+            "D": "All of above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Injury without showing external signs: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Internal injury",
+            "B": "External injury",
+            "C": "temporary injury",
+            "D": "Permanent injury"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Fire drill is carried out to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Firing the furnace",
+            "B": "Ceasing the fire",
+            "C": "practice evacuating buildings in case of emergency",
+            "D": "All of above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Natural causes of accidents are:  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Earthquake",
+            "B": "Floods",
+            "C": "Cyclone",
+            "D": "All of the  above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Mining accidents are because of \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Collapsing of soil layers",
+            "B": "suffocation",
+            "C": "poisonous gases",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Fatal accident results in \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Death of an employee",
+            "B": "Minor casualty",
+            "C": "Temporary disability",
+            "D": "All of above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Safety management concentrates on \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Expecting accidents",
+            "B": "Avoiding accidents",
+            "C": "promoting accidents",
+            "D": "None of above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "As per safety procedures, compressed gas cylinders may be moved \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "By rolling",
+            "B": "By dragging",
+            "C": "By throwing",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Using a  tool  without proper sharpening is \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "More easy",
+            "B": "More dangerous",
+            "C": "More accurate",
+            "D": "All of above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Long form of OSHA \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Operational safety and health administration",
+            "B": "Occupational safety and health administration",
+            "C": "Occupational safety and health awareness",
+            "D": "Occupational safety and health act"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Under occupational health the employer is responsible for providing a",
+        "options": {
+            "A": "Safe workplace",
+            "B": "Land",
+            "C": "Insurance",
+            "D": "purified water"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Unsafe physical condition refers to -------------",
+        "options": {
+            "A": "Improper guardr",
+            "B": "Insufficient illumination",
+            "C": "Improper ventilation",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Safety training includes \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Emergency information",
+            "B": "Safety procedure and PPE",
+            "C": "Area hazards and safety communication",
+            "D": "All of above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Workplace safety requirements are \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Safety labels and signs",
+            "B": "Alarm",
+            "C": "Colour coded systems",
+            "D": "All of above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Safety standards focus on \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Mechanical Hazards",
+            "B": "Chemical hazards",
+            "C": "Toxic substances",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Objective of safety management is to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Prevent accident",
+            "B": "Improve production",
+            "C": "Ensure quality",
+            "D": "Non of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Fetal accidents result in: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Death of an  employee",
+            "B": "Less harmful in nature",
+            "C": "Injury without external signs",
+            "D": "Permanent disability"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "After the fire drill, supervisor has to\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Record the evacuation time",
+            "B": "Reset the fire alarm",
+            "C": "Ensure fire alarm to back in operating condition",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "General safety norms include\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Head protection",
+            "B": "Minimum wages",
+            "C": "Proper selection of worker",
+            "D": "Skill development"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Promoting safety awareness does not consist of the following \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Safety training programmes",
+            "B": "Display of banners",
+            "C": "Organizing seminars on safety",
+            "D": "Fencing of rotary and moving parts"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "lack of concentration  is the cause of accident due to\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Management",
+            "B": "Unsafe working conditions",
+            "C": "Natural couse",
+            "D": "Worker"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Unsafe working conditions :\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Poor workplace layout",
+            "B": "poor illumination",
+            "C": "bad house keeping",
+            "D": "all of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Effect of accident on Industry is \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Production stoppage",
+            "B": "Faith of workers get disturbed",
+            "C": "Loss of earning member",
+            "D": "Loss of skill"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "SOP for an activity is prepared by -----------------",
+        "options": {
+            "A": "Plant manager",
+            "B": "Factory inspector",
+            "C": "Concerned employee",
+            "D": "Supplier of machine"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Example of Chemical Hazards\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Acid",
+            "B": "Caustic substances",
+            "C": "Paint",
+            "D": "all of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Proper storage of  flammable liquids prevents\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Thermal hazards",
+            "B": "Chemical hazards",
+            "C": "Fire hazards",
+            "D": "Electrical hazards"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "During a fire drill, supervisor has to monitor\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Closure of the doors after exiting rooms",
+            "B": "Assembly at the designated muster point",
+            "C": "Safe evacuation of all individuals",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Safety management ensures --------- compliances from all location.",
+        "options": {
+            "A": "decentralized",
+            "B": "centralized",
+            "C": "local",
+            "D": "distributed"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following can be considered as unsafe act?.",
+        "options": {
+            "A": "Unsafe speeds",
+            "B": "Not using safety devices",
+            "C": "Adopting unsafe procedures.",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Which one of the following  is not included in the causes of accident due to worker?",
+        "options": {
+            "A": "Lack of concentration",
+            "B": "Poor housekeeping",
+            "C": "Mischievous behavior",
+            "D": "Overconfidence"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Following is not included in the cause of accident due to management?",
+        "options": {
+            "A": "Bad habits of worker",
+            "B": "Untrained workers",
+            "C": "Bad construction of plant",
+            "D": "Faulty equipment"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Who may be responsible for accident?",
+        "options": {
+            "A": "Worker",
+            "B": "Management",
+            "C": "Working conditions",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Who is responsible for unguarded moving parts?",
+        "options": {
+            "A": "Workers",
+            "B": "Management",
+            "C": "Government",
+            "D": "nan"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following is not included in the causes of accidents due to unsafe working",
+        "options": {
+            "A": "Chemical leakages",
+            "B": "Suffocation at work",
+            "C": "Irregular floor heights",
+            "D": "Quarrels among the  workers"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Which one of the following  is not included in the causes of accidents due to nature?",
+        "options": {
+            "A": "Floods",
+            "B": "Gas leakage",
+            "C": "Heavy rains",
+            "D": "Temperature strokes"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Who gets affected directly or indirectly due to accidents?",
+        "options": {
+            "A": "Employee",
+            "B": "Industry",
+            "C": "Family of worker",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which  one of the following preventive measures an industry should adopt to avoid accidents?",
+        "options": {
+            "A": "Safety provision",
+            "B": "t Safety training of workers",
+            "C": "Safety devices",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "An  accident that disables the affected worker forever is a\n:",
+        "options": {
+            "A": "permanent accident",
+            "B": "Internal accident",
+            "C": "Fatal accident",
+            "D": "None of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "What occurs in fatal accident?",
+        "options": {
+            "A": "Hospitalization",
+            "B": "Fractures",
+            "C": "Disablement",
+            "D": "Death"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "If affected worker is not recovered within 48 hours, then which type of\naccident is it ?",
+        "options": {
+            "A": "Minor",
+            "B": "Major",
+            "C": "Reportable",
+            "D": "Fatal"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following  is not the effect of accident on worker.",
+        "options": {
+            "A": "Injury to body",
+            "B": "Production stoppage",
+            "C": "Loss of job",
+            "D": "Financial loss"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following is not a part of the immediate cause of accident:",
+        "options": {
+            "A": "Unsafe act",
+            "B": "Unsafe condition",
+            "C": "Physical condition of the person",
+            "D": "Fire"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Floods, earthquakes, and tsunami are  causes of accidents",
+        "options": {
+            "A": "workers",
+            "B": "management",
+            "C": "working place",
+            "D": "natural disasters"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which factor does not cause accidents due to dangerous machines?",
+        "options": {
+            "A": "Boiler",
+            "B": "Unsafe clothing",
+            "C": "Prime movers",
+            "D": "Transmission System"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "An example of wrong layout or design of working place...\n:\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Congestion",
+            "B": "short circuit",
+            "C": "Oily or greasy floors",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "House-keeping refers to --------------",
+        "options": {
+            "A": "Safe material handling",
+            "B": "Personal protection devices",
+            "C": "Safe activities in the organization",
+            "D": "Neatness and cleanliness"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Safety management deals with :\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Loss of life",
+            "B": "Personal injury",
+            "C": "Damage to the equipment",
+            "D": "Prevention of an accident"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Get the odd one out: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Hand gloves",
+            "B": "Helmet",
+            "C": "Goggle",
+            "D": "Pullover"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Which one of the following is contributory cause of an accident?",
+        "options": {
+            "A": "Improper material handling",
+            "B": "Poor housekeeping",
+            "C": "Protruding object",
+            "D": "Tendency of show off"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "In a minor accident, the affected worker is recovered within \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "48 hrs",
+            "B": "06 months",
+            "C": "01 week",
+            "D": "01 year"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Management is responsible for \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Overtime work",
+            "B": "Fear of accident",
+            "C": "Lack of confidence",
+            "D": "Unguarded moving parts"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The cause of accident due to unsafe working conditions:\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Chemical leakages",
+            "B": "Suffocation at work",
+            "C": "Irregular floor heights",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following is the cause of accident due to worker.",
+        "options": {
+            "A": "Floods",
+            "B": "Untrained workers",
+            "C": "Poor house keeping",
+            "D": "Poor electrification"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Who gets affected directly or indirectly due to an accident? \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Worker",
+            "B": "Industry",
+            "C": "Family of worker",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Which  one of the following is the cause of accident due to management",
+        "options": {
+            "A": "Lack of concentration",
+            "B": "Poor house keeping",
+            "C": "Mischievous behavior",
+            "D": "Over confidence"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Internal accident means an \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Accident in the premises of the company",
+            "B": "Injury without showing external signs",
+            "C": "both A & B are correct",
+            "D": "None of the above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Example of Fire Hazards are: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Smoking",
+            "B": "Overloading power sockets",
+            "C": "Faulty electrical equipements",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Faulty electrical equipements may cause \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Fire hazard",
+            "B": "Industrial accidents",
+            "C": "Loss of property",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Fire drill is \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Drilling in fire",
+            "B": "Fire near drill",
+            "C": "a kind of  training",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Before doing fire drill operation,communication should be established with \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Fire marshal",
+            "B": "Fire commander",
+            "C": "Fire superintendent",
+            "D": "Fire inspector"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The fire triangle does not include--------------",
+        "options": {
+            "A": "Oxygen",
+            "B": "Fuel",
+            "C": "Temperature",
+            "D": "Heat"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "To give practice of evacuation in emergency -------------- is done.",
+        "options": {
+            "A": "Fire grill",
+            "B": "Fire drill",
+            "C": "Fire fight",
+            "D": "Fire awareness"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Documented format that authorizes specified people to work under conditions is a",
+        "options": {
+            "A": "Work License",
+            "B": "Work permit",
+            "C": "Work authority",
+            "D": "Work Order"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "A document that sets out the logical sequence of steps to perform an activity is known as -----------------",
+        "options": {
+            "A": "Safe operating practice",
+            "B": "Safe operating procedure",
+            "C": "Sound  operating practice",
+            "D": "Simple  operating practice"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Work permit sets out the ------- required to be taken to do work safely under---------",
+        "options": {
+            "A": "Risk, permission",
+            "B": "Function, labor law",
+            "C": "Process, higher authority",
+            "D": "Precaution, risk management"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Work permit is given at",
+        "options": {
+            "A": "High risk areas",
+            "B": "Routine activities",
+            "C": "Low risk areas",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Work permit is essentially obtained at \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "High voltage work",
+            "B": "Electrical trouble shooting",
+            "C": "Pressure testing",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Work permit is not required in case of  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Complex machinery",
+            "B": "Emergency",
+            "C": "Work at height",
+            "D": "Operational pipe lines"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "A person authorized to  keepworkplace safe is:",
+        "options": {
+            "A": "Issuer",
+            "B": "Field operator",
+            "C": "Responsible person",
+            "D": "Executer"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Safety management does not ensure",
+        "options": {
+            "A": "Safe work place",
+            "B": "Time management",
+            "C": "Standardization of operation",
+            "D": "Investigation of accident"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Get the odd one out:",
+        "options": {
+            "A": "Stress in work",
+            "B": "Lack of confidence",
+            "C": "Bad habits",
+            "D": "Unguarded moving parts"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Work permit does not involve following person -------",
+        "options": {
+            "A": "Issuer",
+            "B": "Executor",
+            "C": "software designer",
+            "D": "Field operator"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Safety procedure includes: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Safety training",
+            "B": "Industrial safety",
+            "C": "safe working conditions",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Find the odd one out:",
+        "options": {
+            "A": "Loss of time in assisting injured workers",
+            "B": "Loss due to damage caused to machines",
+            "C": "Compensation paid",
+            "D": "Loss due to reduction in efficiency"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "The following is an indirect cost of accident \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Medical expenses",
+            "B": "Compensation paid to worker",
+            "C": "Cost of lost time of  injured worker",
+            "D": "All of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The following is/are physical hazard agents \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "falls",
+            "B": "electricity",
+            "C": "inhalation",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Check list for job safety analysis consist of \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Work area,material, machines, tools",
+            "B": "Material, machines, tools,men",
+            "C": "Work area,men, machines, tools",
+            "D": "Work area,material, men, tools"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Which one of the following  is not an accident based on the place of accident? \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Construction accident",
+            "B": "Laboratory accident",
+            "C": "Industrial plant accident",
+            "D": "Chemical plant accident"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "For household wiring and small units, the following should be used for safety measure \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "MCB",
+            "B": "ACB",
+            "C": "OCB",
+            "D": "MCCB"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following is generally provided with limit switch to prevent motion beyond preset limit.",
+        "options": {
+            "A": "Hoist",
+            "B": "Conveyors",
+            "C": "Machine table",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "The following are used as safety devices in machines\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "emergency stop",
+            "B": "safety inter locks",
+            "C": "limit switches",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Class-A fire consists of fire due to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Wood",
+            "B": "Oil",
+            "C": "Transformer",
+            "D": "Chemical"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Water is used to extinguish \u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Class-A fire",
+            "B": "Class-B fire",
+            "C": "Class-C fire",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The following class of fire occurs in electrical equipment\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+        "options": {
+            "A": "Class-A fire",
+            "B": "Class-B fire",
+            "C": "Class-C fire",
+            "D": "All of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The following extinguisher is suitable for fire due to cotton",
+        "options": {
+            "A": "Water",
+            "B": "Soda acid",
+            "C": "Foam",
+            "D": "Dry chemical"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "is best suited for extinguishing oil or flammable liquid fire.",
+        "options": {
+            "A": "Soda acid",
+            "B": "Vaporizing liquid",
+            "C": "Foam",
+            "D": "Dry chemical"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Purpose of Negative motivation during disciplinary action is to",
+        "options": {
+            "A": "Punish hardly to worker so that he wont do such mistake again",
+            "B": "To threaten the person so that he wont ask for salary incriment",
+            "C": "Person will improve his performance in future with fear of disciplinary action",
+            "D": "All of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "which of the following is not form of non-verbal communication",
+        "options": {
+            "A": "posture",
+            "B": "nodding",
+            "C": "instant messages",
+            "D": "body language"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Complex nature of work demands a \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0span of control",
+        "options": {
+            "A": "Wide",
+            "B": "Small",
+            "C": "Flat",
+            "D": "Fast"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "span of control can be employed if the organisation and its control system are efficient and communication is good",
+        "options": {
+            "A": "Smaller",
+            "B": "Wider",
+            "C": "Open",
+            "D": "Closed"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "refers to the capacity to withstand the losses of key personnel without serious loss to the effectiveness of the organisation in performing its work",
+        "options": {
+            "A": "Availability",
+            "B": "Productivity",
+            "C": "Stability",
+            "D": "Flexibility"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The communication process is said to be completed only when receiver has \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0the message",
+        "options": {
+            "A": "Seen",
+            "B": "Understood",
+            "C": "Received",
+            "D": "Read"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "is a distinct process comprising of functions such as planning, organising, staffing, directing and controlling",
+        "options": {
+            "A": "Management",
+            "B": "Organization",
+            "C": "Administration",
+            "D": "Departmentation"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "In an organization, the functional areas of management are:",
+        "options": {
+            "A": "production, marketing and finance",
+            "B": "production,marketing and communication",
+            "C": "marketing, finance  and communication",
+            "D": "production, finance  and communication"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "In a business,which sector deals with all employee matters?",
+        "options": {
+            "A": "sales",
+            "B": "customer services",
+            "C": "human resources",
+            "D": "communication"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not from the functional areas of management?",
+        "options": {
+            "A": "production, management",
+            "B": "marketing management",
+            "C": "Personnel management",
+            "D": "Information management"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not among the levels of",
+        "options": {
+            "A": "Top level management",
+            "B": "Middle  level management",
+            "C": "Intermediate  level management",
+            "D": "Lower  level management"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Who defined management as \" Management is the art of getting things done through and with people in formally organized groups?\"",
+        "options": {
+            "A": "Harold Koontz",
+            "B": "F.W.Taylor",
+            "C": "Elton Mayo",
+            "D": "Abraham Maslow."
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The first step in the process of planning is to:",
+        "options": {
+            "A": "Identify alternatives",
+            "B": "Selecting alternatives",
+            "C": "Setting objectives",
+            "D": "developing planning premises"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The purpose and aim for which the organization is set up is called:",
+        "options": {
+            "A": "objective",
+            "B": "policy",
+            "C": "strategy",
+            "D": "procedure"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Identify which of the following is not a principle of management.",
+        "options": {
+            "A": "Equity",
+            "B": "Span of control",
+            "C": "Stability",
+            "D": "Scalar chain"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The type of plan prepared to meet the challenges of competitors is called ----------------",
+        "options": {
+            "A": "rules",
+            "B": "strategy",
+            "C": "policy",
+            "D": "procedure"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Who introduced the functional type of organization?",
+        "options": {
+            "A": "Chester Bernard",
+            "B": "Frederick Winslow Taylor",
+            "C": "Louis Alexander Allen",
+            "D": "max Weber"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following statements is true in case of line organization?",
+        "options": {
+            "A": "The line of authority is not clear",
+            "B": "Suitable for large organizations only",
+            "C": "There is lack of specialization",
+            "D": "There is lot of confusion"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "The process of sharing of authority by superior to subordinate is called ----------------",
+        "options": {
+            "A": "Delegation",
+            "B": "Centralization",
+            "C": "Responsibility",
+            "D": "Equity"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Identify which  from the following is not an element of \"Directing\"?",
+        "options": {
+            "A": "Organizing",
+            "B": "Supervision",
+            "C": "Leadership",
+            "D": "Motivation"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The type of organizational structure suitable for textile industry is              .",
+        "options": {
+            "A": "Line organization",
+            "B": "functional organization",
+            "C": "Line and staff organization",
+            "D": "Project organization"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The function of \"Controlling\" is performed by:",
+        "options": {
+            "A": "Top level management",
+            "B": "Middle  level management",
+            "C": "All managers",
+            "D": "none of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Telling people what to do is:",
+        "options": {
+            "A": "Planning",
+            "B": "Supervising",
+            "C": "Motivating",
+            "D": "Directing"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The means by which long term objectives will be achieved are called ---------",
+        "options": {
+            "A": "Mission statements",
+            "B": "Vision statementa",
+            "C": "strategies",
+            "D": "Long term goals"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not a part of \"controlling\"",
+        "options": {
+            "A": "Setting performance standards",
+            "B": "Measuring performances",
+            "C": "Writing reports",
+            "D": "Taking corrective actions"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Ram is working as a supervisor on the shop floor of a certain production company.Which of the following managerial skills should he compulsorily possess?",
+        "options": {
+            "A": "Conceptual skills",
+            "B": "Design skills",
+            "C": "Technical skills",
+            "D": "Empirical skills"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is true regarding technical and human skills?",
+        "options": {
+            "A": "Technical skills and human skills remain equally important as managers move from lower  levels to higher levels.",
+            "B": "Technical-skill needs remain necessary  and need for human skills decrease as managers move from lower  levels to higher levels.",
+            "C": "Human skills remain necessary and technical - skill needs decrease as managers move from lower  levels to higher levels",
+            "D": "Both technical- skill and human- skill needs decrease as managers move from lower  levels to higher levels"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "An organization is:",
+        "options": {
+            "A": "a physical location where people work.",
+            "B": "a group of peopleworking for the same company",
+            "C": "a intended arrangement of people to achieve specific purpose.",
+            "D": "none of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not a recognized  key skill of management?",
+        "options": {
+            "A": "Conceptual skills",
+            "B": "Technical skills",
+            "C": "Human skills",
+            "D": "Writing skills"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Mr. Ramesh works as a branch manager for X firm.He is from:",
+        "options": {
+            "A": "Top level management",
+            "B": "Middle  level management",
+            "C": "Lower level management",
+            "D": "Supervisory level management"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "To which of the following management functions, \"motivation\" is related?",
+        "options": {
+            "A": "Planning",
+            "B": "Controlling",
+            "C": "Organizing",
+            "D": "Directing"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Strategic plans are:",
+        "options": {
+            "A": "single use plans",
+            "B": "Long range plans",
+            "C": "for lower management levels",
+            "D": "standing plans"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Who suggested that standard methodology for doing a work should be adapted and workers should be motivated with pay according to output?",
+        "options": {
+            "A": "Elton Mayo",
+            "B": "Max Weber",
+            "C": "Henry Fayol",
+            "D": "F.W.Taylor"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Identify the odd one from the following:",
+        "options": {
+            "A": "Board of directors",
+            "B": "Managing directors",
+            "C": "Inspectors",
+            "D": "General managers"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Identify the function of management which involves filling and keeping filled positions in organizational structure.",
+        "options": {
+            "A": "Organizing",
+            "B": "Controlling",
+            "C": "Staffing",
+            "D": "Planning"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "A manufacturing company has grouped its main functions into marketing, engineering, production and finance.What kind of organizational structure is adapted by this company?",
+        "options": {
+            "A": "Departmentalization by function",
+            "B": "Departmentalization by territory",
+            "C": "Departmentalization by product",
+            "D": "Departmentalization by process"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The management principle of Henry Fayol that aims at avoiding the possibility of conflicting orders is ---------",
+        "options": {
+            "A": "Scalar chain",
+            "B": "Unity of command",
+            "C": "Equity",
+            "D": "Esprit de corps"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Creation of demand,customer satisfaction and generation of profits are objectives of:",
+        "options": {
+            "A": "Production management",
+            "B": "Finance management",
+            "C": "Marketing management",
+            "D": "Human resource management"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The focus of Human resource management  revolves around",
+        "options": {
+            "A": "Machine",
+            "B": "Men",
+            "C": "Motivation",
+            "D": "Money"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The method of recruitment and selection will depend upon:",
+        "options": {
+            "A": "state of economy",
+            "B": "the size of the organization",
+            "C": "types of training programs of the company",
+            "D": "objectives of the company"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "which of the following is not a purpose of as organizational structure?",
+        "options": {
+            "A": "To coordinate people and resources",
+            "B": "To organize line of communication",
+            "C": "To formalize authority",
+            "D": "To limit worker's rights"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Identify the type of organization shown in figure.",
+        "options": {
+            "A": "Line organization",
+            "B": "Staff organization",
+            "C": "Line and staff organization",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "In which type of organizational structure, each specialist is supposed to give his functional advice to all foremen and workers?",
+        "options": {
+            "A": "Line organization",
+            "B": "functional organization",
+            "C": "Line and staff organization",
+            "D": "All of the above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which type of organization structure is preferred in automobile industry?",
+        "options": {
+            "A": "Line organization",
+            "B": "functional organization",
+            "C": "Line and staff organization",
+            "D": "project organization"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The process of dividing work and then grouping them into units and sub units for the purpose of administration is called:",
+        "options": {
+            "A": "Departmentation",
+            "B": "Organization",
+            "C": "Committee",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "A day according to factory Act is .....................",
+        "options": {
+            "A": "Duration from Sun rise to Sun set",
+            "B": "Duration of a Shift",
+            "C": "Period of 24 hours starting at mid night",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following Provisions of Factory Act provides for First Aid facility at work place ?",
+        "options": {
+            "A": "Welfare",
+            "B": "Health",
+            "C": "Safety",
+            "D": "All of A, B & C"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "According to provisions of Factory Act, provision of",
+        "options": {
+            "A": "100",
+            "B": "150",
+            "C": "200",
+            "D": "250"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "According to Factory Act, the working women in factory can avail the facility of Creches for their children with age below                   years.",
+        "options": {
+            "A": "Three",
+            "B": "Five",
+            "C": "Six",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "which of the Factory provision provides for the constitution of \"Site Appraisal Committee\" ?",
+        "options": {
+            "A": "Welfare",
+            "B": "Provision relating to Hazardous Processes",
+            "C": "Health",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following provision of Factory Act provides for \"Artificial Humidification\"?",
+        "options": {
+            "A": "Welfare",
+            "B": "Health",
+            "C": "Safety",
+            "D": "All of A, B & C"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The ceiling of number of working hours per week  for adult worker according to Factory Act is             hours.",
+        "options": {
+            "A": "Thirty Six",
+            "B": "Twenty Four",
+            "C": "Fifty Six",
+            "D": "Forty Eight"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "According to provision of working hours of Factory Act, the interval for rest after continuous work of not more than five hours is                 minutes.",
+        "options": {
+            "A": "Thirty",
+            "B": "One hour",
+            "C": "Fifteen minutes",
+            "D": "Twenty minutes"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The age of young person according to Factory Act lies between                        years.",
+        "options": {
+            "A": "Ten to Fourteen",
+            "B": "Fourteen to Eighteen",
+            "C": "Eighteen to Twenty",
+            "D": "Twenty to Twenty five"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "According to Factory Act, the young person working in factory has to carry                          during\nworking.",
+        "options": {
+            "A": "Birth Certificate",
+            "B": "Token with reference of fitness certificate",
+            "C": "Certificate of fitness",
+            "D": "Both B & C"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "A Factory ordinarily employs 165 employees out of which twelve are women. Select the correct welfare provisions according to factory act from the following options.",
+        "options": {
+            "A": "A canteen for employees is needed.",
+            "B": "Rest room / Lunch room is needed.",
+            "C": "Creche is needed",
+            "D": "All of A, B & C"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Select the correct form of Light at work place as per health provision of factory act from the following options.",
+        "options": {
+            "A": "Fluoroscent light",
+            "B": "Light without eye straining shadows",
+            "C": "Lighting free from glare",
+            "D": "Both B & C"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "In a factory lubrication of prime mover part is needed. Who among the following are not permitted for this work?",
+        "options": {
+            "A": "Employee who is a young person",
+            "B": "Women employee",
+            "C": "None of A & B",
+            "D": "Both A & B"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "An underground work place employs a cage lowered and lifted by hoist.. Which of the following is the correct frequency for thorough examination of the hoist mechanism by Chief factory inspector?",
+        "options": {
+            "A": "Three Months",
+            "B": "Twelve months",
+            "C": "Six months",
+            "D": "Three times a year"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "skill is the ability to inspire people to do what the manager wants to do",
+        "options": {
+            "A": "Organisational",
+            "B": "Motivating",
+            "C": "Decision making",
+            "D": "Technical"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "In the management activity levels, \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0level includes superintendents, branch managers, general foreman",
+        "options": {
+            "A": "Top",
+            "B": "Lower",
+            "C": "Middle",
+            "D": "Upper"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "From the following given functions, \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0function comes under top level management",
+        "options": {
+            "A": "To cooperate to run the organisation smoothly",
+            "B": "Assigning duties to their subordinates",
+            "C": "Shouldering financial responsibilities",
+            "D": "Direct supervision of workers and their work"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "management includes economic forecasting, costing, accounting",
+        "options": {
+            "A": "Purchase",
+            "B": "Financial",
+            "C": "Personnel",
+            "D": "Production"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Conceptual skills is critical in \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0executive positions, whereas technical skills is essential for\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0level management",
+        "options": {
+            "A": "Middle, Top",
+            "B": "Lower, Middle",
+            "C": "Top, Lower",
+            "D": "Lower, Top"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Management may be called an \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0as well as",
+        "options": {
+            "A": "Art, Science",
+            "B": "Idea, Science",
+            "C": "Objective, Society",
+            "D": "Union, Society"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "function comes under lower level mangement",
+        "options": {
+            "A": "Establishment of organization",
+            "B": "Establishing the policies",
+            "C": "Developing and improving work methods and operations",
+            "D": "Setting basic goals and objectives"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "is the advantage of line and staff\norganization",
+        "options": {
+            "A": "It encourages dictatorial way of working",
+            "B": "It is limited to very small concerns",
+            "C": "Less wastage of material, man and machine hours",
+            "D": "Product cost will increase because of high salaries"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "In the line and staff organization, the line executives are marked \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0where as staff executives are placed",
+        "options": {
+            "A": "Horizontally, Vertically",
+            "B": "Vertically, Horizontally",
+            "C": "Diagonally, Vertically",
+            "D": "Horizontally, Diagonally"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "In \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0organization, the authority flows from the works manager to superintendent to foreman and then to worker",
+        "options": {
+            "A": "Line",
+            "B": "Line and staff",
+            "C": "Functional",
+            "D": "Project"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "In the organization, \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0empowers the superior to make a subordinate to do the work",
+        "options": {
+            "A": "Policies",
+            "B": "Authority",
+            "C": "Employment",
+            "D": "Finance"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Identify the type of organization shown in figure",
+        "options": {
+            "A": "Line organization",
+            "B": "functional organization",
+            "C": "Line and staff organization",
+            "D": "Project organization"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Identify the type of organization shown in figure",
+        "options": {
+            "A": "Line organization",
+            "B": "functional organization",
+            "C": "Line and staff organization",
+            "D": "Project organization"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Which of the following functional areas of management is also called operations management?",
+        "options": {
+            "A": "Finance management",
+            "B": "production management",
+            "C": "marketing management",
+            "D": "human resource management"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not an objective of production management?",
+        "options": {
+            "A": "right quality",
+            "B": "right quantity",
+            "C": "capital budgeting",
+            "D": "right manufacturing cost"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The relationship between the positions in a company and its employees can be determined from ------------",
+        "options": {
+            "A": "Decision tree",
+            "B": "Organization structure",
+            "C": "Procedure manual",
+            "D": "mission statement"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following statements is not correct with respect to functional organization ?",
+        "options": {
+            "A": "Specialists give expert advice to workers.",
+            "B": "Quality of work is improved.",
+            "C": "Discipline is of the highest order.",
+            "D": "Each worker receives instructions from different supervisors."
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Human resource management does not involve:",
+        "options": {
+            "A": "Recruitment",
+            "B": "cost control",
+            "C": "selection",
+            "D": "training"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "A supervisor is teaching an employee to use an equipment safely. Which of the following skills is very important to the supervisor?",
+        "options": {
+            "A": "Technical skills",
+            "B": "Conceptual skills",
+            "C": "Strategic skills",
+            "D": "Design skills"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "Which level of management makes decisions about activities like acquiring other companies,investing in research and development and building new plants?",
+        "options": {
+            "A": "Top level management",
+            "B": "Middle level management",
+            "C": "Supervisory level management",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "A manager is assigning tasks to his employees and granting them the authority to get the tasks completed.Which managerial function is he performing?",
+        "options": {
+            "A": "leading",
+            "B": "controlling",
+            "C": "staffing",
+            "D": "organizing"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Organizational development is an example of which type of planning?",
+        "options": {
+            "A": "Operational planning",
+            "B": "Strategic planning",
+            "C": "Contingency planning",
+            "D": "Single use planning"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Select the odd one from the following;",
+        "options": {
+            "A": "Winch",
+            "B": "Pulley Block",
+            "C": "Crane",
+            "D": "Rope sling"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Under which of the following cases, appointment of safety officer becomes compulsory according to safety provisions of factory Act;",
+        "options": {
+            "A": "Operations involve risk of bodily injury",
+            "B": "Operations involve hazard of poisoning or disease",
+            "C": "Number of workers ordinarily employed exceeds thousand",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Select the correct Chapter of Factory act applicable to launch prosecutions against factory-owners; from the following.",
+        "options": {
+            "A": "Chapter II",
+            "B": "Chapter III",
+            "C": "Chapter VI",
+            "D": "Chapter X"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "According to Factory Act, a worker is entitled for over time under which of the following cases?",
+        "options": {
+            "A": "Working more than nine hours a day",
+            "B": "Working more than 48 hours a week",
+            "C": "None of A & B",
+            "D": "Both of A & B"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Select the correct time slot in which women employee can be employed under normal conditions according to provisions of Factory Act.",
+        "options": {
+            "A": "Any of the three shifts",
+            "B": "Any shift between 6.00 a m to 7.00 p m",
+            "C": "None of A & B",
+            "D": "Both of A & B"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Select the correct chapter of Factory act from the following for penalizing a factory.",
+        "options": {
+            "A": "Chapter Nine",
+            "B": "Chapter Seven",
+            "C": "Chapter Ten",
+            "D": "Chapter Four - A"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The duty of works committee in Industrial disputes Act is to ................................",
+        "options": {
+            "A": "Finalize the work procedures in the factory",
+            "B": "To promote good relations between Employer and workmen",
+            "C": "Both of A & B",
+            "D": "None of A & B"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The conciliation officers appointed as per the provisions of Industrial disputes act have the duty of\n.....................................",
+        "options": {
+            "A": "Inspection of Accident site in Factory",
+            "B": "Holding court inside Factory",
+            "C": "Mediating in and promoting settlement of disputes",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The members on board of conciliation set up under the provisions of Industrial disputes Act are..................",
+        "options": {
+            "A": "Independent member appointed by Labour court",
+            "B": "Independent member appointed by Industrial tribunal",
+            "C": "Members recommended by parties in dispute",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Labour court constituted as per the provision of Industrial Disputes Act is headed by .............................",
+        "options": {
+            "A": "Presiding Officer",
+            "B": "Judge",
+            "C": "Chairman",
+            "D": "None of A,B & C"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Labour court constituted under the provision of industrial dispute Act adjudicates industrial disputes listed under\n.............................",
+        "options": {
+            "A": "Fifth Schedule",
+            "B": "Fourth Schedule",
+            "C": "Third Schedule",
+            "D": "Second Schedule"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The industrial Tribunal  constituted as per the provision of Industrial Disputes Act has Jurisdiction over the disputes falling under ..............................",
+        "options": {
+            "A": "The third schedule only",
+            "B": "The second schedule only",
+            "C": "Either second or third schedule",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The condition for disqualification of the presiding officer of Labour court / Industrial Tribunal / National Tribunal despite fulfilling judicial eligibility criteria is\n..................................",
+        "options": {
+            "A": "Age above sixty five years",
+            "B": "Not an independent person",
+            "C": "None of A & B",
+            "D": "Both of A & B"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "According to Industrial disputes Act, grievance redressal Committee becomes compulsory when the number of workmen exceeds ..................",
+        "options": {
+            "A": "Hundred",
+            "B": "Ten",
+            "C": "Fifty",
+            "D": "Twenty"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "According to Industrial disputes Act, an award in regard to an industrial dispute has to be enforced within a maximum time limit of                              days.",
+        "options": {
+            "A": "Three hundred sixty five",
+            "B": "Thirty",
+            "C": "One hundred Eighty",
+            "D": "Sixty"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The appropriate section of Industrial disputes act applicable to matters related to strikes and lockout is\n.......................................",
+        "options": {
+            "A": "Section 22 and 23",
+            "B": "section 7",
+            "C": "section 25",
+            "D": "None of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Identify the unfair labour practice from the following;",
+        "options": {
+            "A": "Lock out of factory",
+            "B": "Lay off of worker",
+            "C": "Employer taking active interest in organising trade union of workmen",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "An electrician after an accident at work place loses his capacity to perform the duties of electrician for one month. Under which category, the disablement can be classified?",
+        "options": {
+            "A": "Total and Permanent",
+            "B": "Total and Temporary",
+            "C": "Partial and Permanent",
+            "D": "Partial and Temporary"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "A minor according to Workmen Compensation Act is equivalent to which of the following identity of Factory Act?",
+        "options": {
+            "A": "Adolescent",
+            "B": "Young person",
+            "C": "Both of A & B",
+            "D": "None of A & B"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "How much compensation is due in case of an accident in a factory resulting in total disablement of worker for two days?",
+        "options": {
+            "A": "Two month wage",
+            "B": "No compensation other than medical expenses and paid leave",
+            "C": "Two day wage",
+            "D": "Only medical expenses"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The authority to settle workmen compensation issues as per the provision of workmen compensation Act is\n......................................",
+        "options": {
+            "A": "Presiding Officer",
+            "B": "Factory Inspector",
+            "C": "Commissioner of Work men's compensation",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "In case of any appeal against an order by commissioner of Workmen compensation Act, the party has to approach\n...............................",
+        "options": {
+            "A": "Industrial tribunal",
+            "B": "Labour Court",
+            "C": "National Tribunal",
+            "D": "High Court"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Complete deafness due to injury in an accident deprives the workmen of ................................",
+        "options": {
+            "A": "100% earning capacity",
+            "B": "50% earning capacity",
+            "C": "80% earning capacity",
+            "D": "75% earning capacity"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "According to provision of workmen compensation Act, the multiplying factor for working out the lump sum compensation .......................................",
+        "options": {
+            "A": "Increases with age of workmen",
+            "B": "Increases with years of service of workmen",
+            "C": "Decreases with age of workmen",
+            "D": "Decreases with years of service of workmen"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Occupational diseases are listed in schedule\n................ of workmen compensation Act.",
+        "options": {
+            "A": "One",
+            "B": "Four",
+            "C": "Two",
+            "D": "Three"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The schedule III of workmen compensation Act enlists\n......................................",
+        "options": {
+            "A": "Temporary injuries",
+            "B": "Occupational Diseases",
+            "C": "None of A & B",
+            "D": "Both of A & B"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not included in the wage of the employee ?",
+        "options": {
+            "A": "House rent allowance",
+            "B": "Employer contribution to pension fund",
+            "C": "Traveling allowance",
+            "D": "Both B & C"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Minimum Wage comprises of how many components?",
+        "options": {
+            "A": "Five",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "How many classes of employment are there in Maharashtra?",
+        "options": {
+            "A": "Three",
+            "B": "Two",
+            "C": "Four",
+            "D": "None of A,B & C"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Adherence to the provisions of minimum wages Act is verified by .............................",
+        "options": {
+            "A": "Labour Commissioner",
+            "B": "Factory Inspector",
+            "C": "Both of A & B",
+            "D": "None of A & B"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The clerical category of employment is equivalent to which of the following categories?",
+        "options": {
+            "A": "Semiskilled",
+            "B": "Skilled",
+            "C": "Highly Skilled",
+            "D": "Unskilled"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "In case it is noticed during factory inspection that the drinking water facility is located very close to wash rooms, then the factory has defaulted under which of the following provision of Factory Act?",
+        "options": {
+            "A": "Safety",
+            "B": "Health",
+            "C": "Welfare",
+            "D": "Working Hours"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "There are 162 employees in a factory. The workers after working for four hours, break for lunch. They assemble at the open space in shop floor and eat their lunch. In the above narrative, which of the welfare provision of  Factory Act is violated?",
+        "options": {
+            "A": "Canteen facility as workers eat at work place.",
+            "B": "Shelter / Rest room facility as workers eat at work place",
+            "C": "Both of A & B",
+            "D": "None of A & B"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Lunch break is provided after four hours of work in a factory and the workers are instructed to report back to work in twenty minutes for the post lunch session. In the above narrative, which provision of Factory Act is violated?",
+        "options": {
+            "A": "Welfare",
+            "B": "Health",
+            "C": "Woking Hours",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "answer": "optionc",
+        "marks": "2",
+        "options": {
+            "B": "Strikes / Lock outs",
+            "C": "Unfair Labour Practices",
+            "D": "None of A,B & C"
+        }
+    },
+    {
+        "question": "A worker while carrying out his work in a factory meets with an accident resulting in the loss of his thumb in his right hand. According to the provisions of workmen compensation Act, the injury to the worker  can be classified as .....................................",
+        "options": {
+            "A": "Permanent Total disablement",
+            "B": "Temporary total disablement",
+            "C": "Permanent partial disablement",
+            "D": "Temporary partial disablement"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "A  worker of a maintenance contractor engaged in  servicing of exhaust fans in the shop floor meets with an accident and is totally disabled temporarily. According to provisions of Workmen compensation Act, is the employer of the factory is liable for compensation to the maintenance worker?",
+        "options": {
+            "A": "No, as he is from the contractor's employee",
+            "B": "Yes, as he is working in the place of work is",
+            "C": "No as the work performed is not regular  work of factory",
+            "D": "Both of A & C"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Under which of the following cases, an employer is liable for penalty as per the provisions of Workmen compensation Act?",
+        "options": {
+            "A": "When Employer fails to send statement on accident to",
+            "B": "Employer fails to submit return of  injuries and compensation paid.",
+            "C": "None of A & B",
+            "D": "Both of A & B"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "A worker in a factory has eight hours of work in an ordinary day of work. However, on a particular day, the worker finished the work assigned to him in six hours and leaves the work place as no further work was assigned. Is the worker eligible for full day wage?",
+        "options": {
+            "A": "No, ashea has not worked for eight hours",
+            "B": "No, he left work place early.",
+            "C": "Yes, as employer did not assign him sufficient work",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "A worker in a factory works as skilled employee for half day and semi skilled employee for rest of the day as per the requirement of work place. Which of the following wage can be correct for the worker?",
+        "options": {
+            "A": "Wage of semi skilled worker for the whole day",
+            "B": "Wage of skilled worker for the whole day",
+            "C": "Wage of skilled worker for half day and wage of semi skilled worker for remaining half day",
+            "D": "Both of B & C"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "This is a narrative about a factory having 300 workers out of which 70 are women. The workers have to bring their lunch as there is no canteen facility. One woman has a son aged 12 years and she has requested for permission to accommodate him in Creche after his school hours. Her request is rejected.\nIdentify the provisions of Factory Act that are violated.",
+        "options": {
+            "A": "Safety and Health",
+            "B": "Welfare in respect of canteen",
+            "C": "Welfare in respect of Canteen and Creche",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Select the correct match of Provision and the corresponding condition from the following;",
+        "options": {
+            "A": "Health - Ventilation, Safety - Protection to eyes",
+            "B": "Welfare- Fire protection, Safety- Exposure to toxic substance",
+            "C": "None of A & B",
+            "D": "Both of A & B"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "The manufacturing process in a factory involves large number of risky operations. The number of workers in the factory is six hundred forty six. Decide whether there is necessity for the appointment of a safety Officers in the Factory.",
+        "options": {
+            "A": "Not necessary as the number of employees is less than Thousand",
+            "B": "Absloutely necessary as the process involves risky procedures.",
+            "C": "Not necessary as individual process have safety measures",
+            "D": "Can not decide as data is insufficient."
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "A factory undertakes manufacturing process classified under the hazardous. Identify the condition under provisions of Factory Act is applicable to the factory?",
+        "options": {
+            "A": "Site appraisal Committee appointment",
+            "B": "Compulsory disclosure of information by the occupier.",
+            "C": "None of A & B",
+            "D": "Both of A & B"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Calculate the available leave with wage as balance of a worker from the following data. He has worked 240 days per year for four consecutive years. He has availed 14 days of leave with wage during the four years of his service.",
+        "options": {
+            "A": "48 Days",
+            "B": "24 days",
+            "C": "34 days",
+            "D": "40 days"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Identify the correct statement applicable to the narrative below;\n\"A worker working in a  factory having 45 workers has a grievance to be addressed. He approached the grievance redressal cell in the factory with his complaint. The grievance redressal committee gave its decision in three weeks. However, the employee was not satisfied by the",
+        "options": {
+            "A": "There is no provision like this, the employee has to approach Labour court.",
+            "B": "The process of grievance redressal is perfectly alright.",
+            "C": "The grievance redressal cell has delayed its decision",
+            "D": "The employer has delayed his decision."
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "The workers of a Factory have a dispute referred to Conciliation board. The proceedings of the board are concluded and the settlement has not been arrived. Hence the workers proceed on strike from the next day of conclusion of conciliation procedure.\nIn the above narrative, identify the violation of provision of industrial dispute Act.",
+        "options": {
+            "A": "Non settlement of dispute in conciliation process.",
+            "B": "Strike by workers within sevendays of conclusion of conciliation process.",
+            "C": "Both of A & B",
+            "D": "None of A & B"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "A factory employing about 50 workers continuously for more than one year is facing slow down. In view of the situation, the factory lays off the workers for a period of\n15 days after which the factory is expecting fresh orders after 15 days. In this situation, the workers of the factory are liable to .........................",
+        "options": {
+            "A": "Full salary for the entire fifteen days of lay off",
+            "B": "Half of total wage they were paid before lay off",
+            "C": "No wage is payable as they are going to be joined shortly",
+            "D": "The lay of period will be treated as leave without pay"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "A worker in a factory having continuous service of more than one year is laid off by the management as he was slowing down production as per directives of trade union instructions. Is the worker liable for lay off compensation?",
+        "options": {
+            "A": "Yes, half of his total wage before lay off",
+            "B": "No, as he is part of strike.",
+            "C": "The worker isnot to be laid off at all",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "answer": "optiona",
+        "marks": "2",
+        "options": {
+            "B": "Fifty  percent of monthly wage of worker multiplied by relevant factor",
+            "C": "Monthly wage of worker multiplied by relevant factor",
+            "D": "None of A,B & C"
+        }
+    },
+    {
+        "question": "Select the correct fact from  the following in relation to the relevant factor used for calculating amount of compensation using the monthly wage.",
+        "options": {
+            "A": "The relevant factor increases with the age of dead / injured worker",
+            "B": "The relevant factor decreases with the age of dead / injured worker",
+            "C": "The relevant factor remains same  with the age of dead / injured worker",
+            "D": "Decreases with the monthly wage of the worker"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "In order to calculate the compensation amount of a worker injured permanently with total disablement, select the correct methodology from the following.",
+        "options": {
+            "A": "Forty  percent of monthly wage of worker multiplied by relevant factor",
+            "B": "complete monthly wage of worker multiplied by relevant factor",
+            "C": "Fifty  percent of monthly wage of worker multiplied by relevant factor",
+            "D": "None of A,B & C"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "The award by commissioner appointed as per the provision of Workmen compensation Act has divided the compensation among the number of dependents. Some of the dependents are not satisfied with the division. Suggest the authority for appeal against the compensation award.",
+        "options": {
+            "A": "Industrial tribunal",
+            "B": "Labour court",
+            "C": "High court",
+            "D": "Any of A, B & C"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Which of the following is correct to decide the compensation claim by the family of dead worker. The worker died on account of fall from high platform as he had not fastened safety belt.",
+        "options": {
+            "A": "Pay compensation equal to forty  percent of monthly wage of worker multiplied by relevant factor.",
+            "B": "Pay compensation equal to fifty percent of monthly wage of worker multiplied by relevant factor.",
+            "C": "Pay no compensation as the worker has disregarded safety tool provided to him",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Separate out the injury which does not come under permanent total disablement from the following.",
+        "options": {
+            "A": "Loss of both hands",
+            "B": "Loss of a hand and foot",
+            "C": "Amputation through Shoulder joint",
+            "D": "Both of B & C"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Suggest the factor which controls the compensation amount for a worker in case of permanent disablement which is not total.",
+        "options": {
+            "A": "Loss of limbs",
+            "B": "Percentage loss of earning capacity",
+            "C": "Loss of fingers",
+            "D": "None of the above"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "The correct option among the following arranging the injuries in the descending order of the percentage loss of earning capacity is ....................................",
+        "options": {
+            "A": "Loss of thumb - Loss of four fingers in one hand- Loss of all toes in one leg- Loss of one eye",
+            "B": "Loss of one eye- loss of thumb- Loss of four fingers in one hand - loss of all toes in one leg",
+            "C": "Loss of all toes in one leg - Loss of four fingers in one hand - Loss of one eye - Loss of thumb",
+            "D": "Loss of four fingers in one hand - Loss of one eye - Loss of thumb - Loss of all toes in one leg."
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Frequent revision is necessary in which of the following wage component?",
+        "options": {
+            "A": "Variable Dearness Allowance (VDA)",
+            "B": "House rent allowance (HRA)",
+            "C": "Basic wage",
+            "D": "All of A, B & C"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "According to minimum wages Act, the employer is liable for penalty and punishable with imprisonment under which of the cases?",
+        "options": {
+            "A": "For violation of Scetion 13 on fixing hours of work",
+            "B": "For non payment of currently applicable minimum wages",
+            "C": "Both of A & B",
+            "D": "None of A & B"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "According to Maslows need hierarchy theory which of the following are not higher level needs",
+        "options": {
+            "A": "physiological needs",
+            "B": "social and belongness needs",
+            "C": "social esteem needs",
+            "D": "self actualization needs"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "As per maslows need hierarchy theory, Physiological needs and security needs are",
+        "options": {
+            "A": "lower level needs",
+            "B": "middle level needs",
+            "C": "higher level needs",
+            "D": "all of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Material requisition form is used to",
+        "options": {
+            "A": "procure material from supplier",
+            "B": "supply material to workstation",
+            "C": "keep record of material received",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "The standard form to keep material received report is",
+        "options": {
+            "A": "material requisition form",
+            "B": "Raw material received report",
+            "C": "raw material inter-processing form",
+            "D": "job description"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "which of the following type of form helps to maintain sufficient level of inventory?",
+        "options": {
+            "A": "job description",
+            "B": "machine planning",
+            "C": "raw material inter-processing form",
+            "D": "issue of tools"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Job description form will give",
+        "options": {
+            "A": "the detail idea about the job to be performed",
+            "B": "the number of worker required",
+            "C": "the tools required",
+            "D": "machines to be used"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "Which of the following is not a part of motivation",
+        "options": {
+            "A": "verbal and non verbal motivation",
+            "B": "Positive and negative motivation",
+            "C": "monetary and non-monetary motivation",
+            "D": "None of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Allotment of task to the individual has been done by---",
+        "options": {
+            "A": "production manager",
+            "B": "supervisor",
+            "C": "CEO",
+            "D": "plant manager"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "These factors affects the workers motivation",
+        "options": {
+            "A": "Attitude",
+            "B": "Interest",
+            "C": "Needs",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not an example of positive motivation",
+        "options": {
+            "A": "bonus",
+            "B": "disciplinary action",
+            "C": "salary",
+            "D": "promotion"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "find odd thing out with respect to type of motivation",
+        "options": {
+            "A": "pension",
+            "B": "profit sharing",
+            "C": "job security",
+            "D": "employee stock option"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "find odd thing out with respect to type of communication",
+        "options": {
+            "A": "memos",
+            "B": "agenda",
+            "C": "rumours",
+            "D": "appeals"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "If the given task to the individual is very complex  then--",
+        "options": {
+            "A": "task is cancelled",
+            "B": "alternate work is given",
+            "C": "task is divided among group of the workers",
+            "D": "All of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "which of the following is a form of written communication?",
+        "options": {
+            "A": "circular",
+            "B": "memos",
+            "C": "report",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "matching human needs with job needs is the concept in",
+        "options": {
+            "A": "manpower planning",
+            "B": "material planning",
+            "C": "machine planning",
+            "D": "resource planning"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Choose the correct statement\n1)Operator plans the capacity of machine\n2)Supervisor is working as Engineer, manager as well as team leader",
+        "options": {
+            "A": "Both correct",
+            "B": "Both wrong",
+            "C": "only 1 is correct",
+            "D": "only 2 is correct"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Advantages of  prescribing standard form in planning is/are",
+        "options": {
+            "A": "Standerdization",
+            "B": "systematic planning",
+            "C": "factual information",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "which of the following are not the characteristics of personal counselor",
+        "options": {
+            "A": "motivational approach",
+            "B": "fixed mindset in any situation",
+            "C": "leadership skills",
+            "D": "problem solving nature"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Possible mistakes can be predicted by using",
+        "options": {
+            "A": "complexity of used technology",
+            "B": "comparing deviations with actual results",
+            "C": "analysing workers attitude",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "An industry is selling a product for Rs. 10 per unit. The fixed cost for assets is Rs. 40000 with variable cost of Rs. 6 per unit. How many units should be produced to break even?",
+        "options": {
+            "A": "8000",
+            "B": "10000",
+            "C": "12000",
+            "D": "20000"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "In preparing budget----------department plays a key role",
+        "options": {
+            "A": "finance",
+            "B": "human resource",
+            "C": "sales",
+            "D": "marketing"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Material budget insures--------",
+        "options": {
+            "A": "low risk of inventory planning",
+            "B": "highest purchase lead time",
+            "C": "low transportation cost",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "a hierarchy of command and control is",
+        "options": {
+            "A": "Responsibility",
+            "B": "Authority",
+            "C": "Leadership",
+            "D": "None of the above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "MRP and JIT methods can be also used for preparing-------- budget",
+        "options": {
+            "A": "Material",
+            "B": "Cash",
+            "C": "manpower",
+            "D": "Production"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "Material budget analyses the........",
+        "options": {
+            "A": "material requirement",
+            "B": "material prices",
+            "C": "both A & B",
+            "D": "non of the above"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Principle of organization shows that\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0and\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0should go hand in hand.",
+        "options": {
+            "A": "Authority,Responsibility",
+            "B": "Authority, Simplicity",
+            "C": "Authority, Flexibility",
+            "D": "Authority, stability"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "In direct material budget, direct materials includes",
+        "options": {
+            "A": "supplies needed for manufacturing",
+            "B": "raw material",
+            "C": "stores",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Major objective of marketing management is",
+        "options": {
+            "A": "Creation of demand",
+            "B": "Customer satisfaction",
+            "C": "Market share",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following factors affect material budget",
+        "options": {
+            "A": "material cost",
+            "B": "manpower",
+            "C": "both A & B",
+            "D": "non of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Manpower budget is related to",
+        "options": {
+            "A": "planning of manpower requirement",
+            "B": "planning of manpower supplies",
+            "C": "both A & B",
+            "D": "non of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Manpower budget includes funds allocated to-----",
+        "options": {
+            "A": "salaries",
+            "B": "trainning",
+            "C": "workforce engagement",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Science,Not rule of thumb, this principle of management is given by",
+        "options": {
+            "A": "James Lundy",
+            "B": "Henry Fayol",
+            "C": "Koontz",
+            "D": "F.W.Taylor"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "HR budget use which of the following data from every department",
+        "options": {
+            "A": "financial information",
+            "B": "performance results",
+            "C": "historical data",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Training and development and employee turnover rates is the essentials of",
+        "options": {
+            "A": "Manpower budget",
+            "B": "capital budget",
+            "C": "material budget",
+            "D": "non of the above"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "Information in the HR budget includes--",
+        "options": {
+            "A": "forecasting on number of employees",
+            "B": "salary data",
+            "C": "new benefits programs",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "A reporting relationship in which an employee receives orders from, and reports to, only one\nsupervisor is known as:",
+        "options": {
+            "A": "Line of authority",
+            "B": "Centralization",
+            "C": "Unity of direction",
+            "D": "Unity of command"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Staffing refers to:",
+        "options": {
+            "A": "Measuring performance",
+            "B": "Managing the positions",
+            "C": "Management in action,",
+            "D": "Making strategic plans"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Effect of ignoring manpower budget is",
+        "options": {
+            "A": "material shortage",
+            "B": "labour shortage",
+            "C": "time shortage",
+            "D": "money shortage"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Hire workers at higher salary is the effect of",
+        "options": {
+            "A": "ignoring manpower budget",
+            "B": "recession",
+            "C": "lock outs",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "External information is more useful for........ managers :",
+        "options": {
+            "A": "Top level",
+            "B": "Middle level",
+            "C": "Link level",
+            "D": "lower level"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "If one worker produces average 100 units of job per month and the demand for one month is 1000. The Salary of a",
+        "options": {
+            "A": "10000",
+            "B": "10",
+            "C": "100",
+            "D": "1000"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "laying disciplinary standard in overall working helps to",
+        "options": {
+            "A": "reduce lossed",
+            "B": "avoid misconduct",
+            "C": "improves uality of product",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "laying disciplinary standards through way of disciplinary action is an example of which type of motivation",
+        "options": {
+            "A": "intrinsic motivation",
+            "B": "positive motivation",
+            "C": "negative motivation",
+            "D": "extrinsic motivation"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Advantage of working in group is",
+        "options": {
+            "A": "protecting themselves from stress and danger",
+            "B": "high salary",
+            "C": "job satusfaction",
+            "D": "both A & C"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which are the possible ways of laying disciplinary standards",
+        "options": {
+            "A": "Award disciplined practices",
+            "B": "Define standard for Zero error in quality",
+            "C": "Training for every discipline workers",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Controlling is \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0function",
+        "options": {
+            "A": "Primary",
+            "B": "Goal Oriented",
+            "C": "A & B both",
+            "D": "Last"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Controlling helps in \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-",
+        "options": {
+            "A": "Accomplishing organization standards",
+            "B": "improving employee motivation",
+            "C": "Making optimum use of resources",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Group members must gives first priority to ----",
+        "options": {
+            "A": "personal interest",
+            "B": "organizational interest",
+            "C": "leader interest",
+            "D": "non of the above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The objectives of quality control activity is to not to",
+        "options": {
+            "A": "Reduce delay in material receiving",
+            "B": "assign simple work to only selected workers",
+            "C": "do inventory management",
+            "D": "avoid machine breakdown"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Formal groups are based on -----",
+        "options": {
+            "A": "specialization of workers",
+            "B": "similarity of skill sets",
+            "C": "both A & B are correct",
+            "D": "both A & B are wrong"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "External sources of information to quality control department  includes",
+        "options": {
+            "A": "Feedback from maintainance department",
+            "B": "Feedback from customer regarding quality of product",
+            "C": "Feedback from stores department",
+            "D": "Feedback from human resource department"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Committees, Project teams, Task force are the examples of -",
+        "options": {
+            "A": "Formal group",
+            "B": "Informal group",
+            "C": "membership",
+            "D": "friendship group"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "In controlling process the standards can be \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0term",
+        "options": {
+            "A": "Qualitative",
+            "B": "Quantitative",
+            "C": "A & B both",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Quantitative standards in setting performance standard can be in terms of",
+        "options": {
+            "A": "Revenue to be earned",
+            "B": "Product units to be produced and sold",
+            "C": "Time to be spent in performing task",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Example of formal groups are---",
+        "options": {
+            "A": "Technological group",
+            "B": "interest group",
+            "C": "reference group",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Qualitative standards in setting performance standards can not include",
+        "options": {
+            "A": "Cost to be incurred",
+            "B": "Improving good will of worker",
+            "C": "Improve motivation level of worker",
+            "D": "Being flexible to be modified whenever required"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Identify the informal group from below",
+        "options": {
+            "A": "Committees",
+            "B": "project teams",
+            "C": "task forces",
+            "D": "interest group"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Methods of measurement of actual performance does not include",
+        "options": {
+            "A": "View past performance of worker, ask them reasons and stop their salary so that they will leave company",
+            "B": "Preparing current performance report of the worker",
+            "C": "Measuring company performance",
+            "D": "Inspect every unit or sample meeting quality standard"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Break even point in break even analysis can be calculated as",
+        "options": {
+            "A": "Fixed cost / selling price per unit - variable cost per unit",
+            "B": "Sales (units) * Cost per unit - Fixed cost",
+            "C": "Sales (units) * Cost per unit",
+            "D": "None of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Break even point in break even analysis means",
+        "options": {
+            "A": "point at which their is no profit no loss",
+            "B": "point at which their is only profit no loss",
+            "C": "point at which their is only loss",
+            "D": "point above which their is no profit only loss"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "with the help of break even analysis we can determine relationship between",
+        "options": {
+            "A": "cost and profit only",
+            "B": "cost, volume and profit",
+            "C": "profit only",
+            "D": "cost only"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following are characteristics of Break Even Point ?",
+        "options": {
+            "A": "There is no loss and no profit to the firm.",
+            "B": "Total revenue is equal to total cost.",
+            "C": "Contribution is equal to fixed cost.",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Given selling price is Rs 10 per unit, variable cost is Rs\n6 per unit and fixed cost is Rs 5,000. What is break-even point?",
+        "options": {
+            "A": "500 units",
+            "B": "1000 units",
+            "C": "1250 units",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "At breakeven point",
+        "options": {
+            "A": "Total expenses = Total revenue",
+            "B": "Total expenses > Total revenue",
+            "C": "Total expenses < Total revenue",
+            "D": "None of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Which is the advantage of group dynamics",
+        "options": {
+            "A": "It creates good and pleasant work environment",
+            "B": "pramotes creativity",
+            "C": "enhances mutual cooperation",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The breakeven point is obtained at intersection of",
+        "options": {
+            "A": "Total revenue and Total cost line",
+            "B": "Total cost and variable cost line",
+            "C": "Variable cost and fixed cost line",
+            "D": "Fixed cost and total cost line"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Which are the disadvantages of group dynamics",
+        "options": {
+            "A": "It resist work innovation by resisting change in work method",
+            "B": "It may lead to unequal participation in a group",
+            "C": "It reduces need of close supervision",
+            "D": "both A & B are correct"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Analysis which focuses on firms profitability is classified as",
+        "options": {
+            "A": "loss analysis",
+            "B": "marginal analysis",
+            "C": "production analysis",
+            "D": "break even analysis"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The written statement which include all detailing about work to be performed by worker is called as-------",
+        "options": {
+            "A": "human needs",
+            "B": "job needs",
+            "C": "job description",
+            "D": "non of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Identify type of prescribed form to be handled by supervisor",
+        "options": {
+            "A": "Material requisition form",
+            "B": "Raw material interprocessing form",
+            "C": "raw material received report",
+            "D": "job description form"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "Identify given type of prescribed form to be handled by supervisor",
+        "options": {
+            "A": "Material requisition form",
+            "B": "Raw material received report",
+            "C": "Raw material interprocessing form",
+            "D": "Job description form"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Identify type of prescribed form to be handled by supervisor from following options",
+        "options": {
+            "A": "Material Requisition form",
+            "B": "Raw material interprocessing form",
+            "C": "Raw material received report",
+            "D": "Job description form"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Factors which leads to extreme satisfaction are",
+        "options": {
+            "A": "Salary",
+            "B": "security",
+            "C": "Status",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Identify type of prescribed form to be handled by supervisor while working",
+        "options": {
+            "A": "job description form",
+            "B": "material handling form",
+            "C": "material received form",
+            "D": "machine planning form"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "Identify type of prescribed form to be handled by supervisor during completion of work",
+        "options": {
+            "A": "material receiption form",
+            "B": "machine planning form",
+            "C": "job description form",
+            "D": "issue of tools form"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Identify type of prescribed form to be handled by supervisor at workplace",
+        "options": {
+            "A": "job description form",
+            "B": "machine planning form",
+            "C": "issue of tools form",
+            "D": "material receiving form"
+        },
+        "answer": "optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Purpose of issue of tools form during planning is to\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0-",
+        "options": {
+            "A": "guide to have maintainance of over utilised tools",
+            "B": "locate the tools which are accompanied by other worker",
+            "C": "A & B both",
+            "D": "None of these"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Machine planning form tell the supervisor that",
+        "options": {
+            "A": "For how much time machine is utilized",
+            "B": "all technical details of machine",
+            "C": "schedule maintainance of overutilized machines",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "form allows supervisor to transfer raw material from one person to another person or from one department to another department",
+        "options": {
+            "A": "Raw material received report",
+            "B": "Raw material inter processing form",
+            "C": "Raw material required form",
+            "D": "material planning form"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "In Raw material received report  if the quality of material received does not meet the quality conditions then it should be returned back to",
+        "options": {
+            "A": "Supplier",
+            "B": "Customer",
+            "C": "Top management",
+            "D": "Worker"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Prescribed standard forms while planning helps supervisor to",
+        "options": {
+            "A": "avoid confusion and give clarity of work",
+            "B": "keep systematic documentation of all activities",
+            "C": "bring standardization in work and effective utilization of resources",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Startups can have \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0type of budgeting",
+        "options": {
+            "A": "Zero based budgeting",
+            "B": "Kaizen budgeting",
+            "C": "base budgeting",
+            "D": "None of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Suppose Materials Required for Production is 4000, Desired Ending Inventory at end of month is 1000 and beginning inventory is 500.. Determine total cost of purchased material if total cost per unit is 10 Rs",
+        "options": {
+            "A": "40000",
+            "B": "45000",
+            "C": "50000",
+            "D": "100000"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Suppose we have to do production for 3 months with 100, 200, 250 units in January, February, march month respectively.. The labour cost per unit is 2, 2.5 and 2 Rs in January, February, march month.\nFind average labour cost incurred per month in manpower budget",
+        "options": {
+            "A": "300",
+            "B": "400",
+            "C": "500",
+            "D": "600"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "budget should be prepared before preparing manpower budget",
+        "options": {
+            "A": "production",
+            "B": "master",
+            "C": "fixed",
+            "D": "variable"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "As show in figure, Figure A indicates \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0& Figure 2 Indicate",
+        "options": {
+            "A": "Figure A indicates Tall Organization & Figure 2 Indicate Flat Organization",
+            "B": "Figure A indicates Flat Organization & Figure 2 Indicate Tall Organization",
+            "C": "Both are types of flat organization",
+            "D": "Both are types of tall organization"
+        },
+        "answer": "optionb",
+        "marks": "2"
+    },
+    {
+        "question": "Tangible changes are concerned with changes in-",
+        "options": {
+            "A": "Technology",
+            "B": "Size of organization",
+            "C": "Specialization of work",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "According to factory act, all inside walls and partitions, all ceiling tops of rooms, passage and staircase to be repainted once in       years",
+        "options": {
+            "A": "7",
+            "B": "3",
+            "C": "5",
+            "D": "10"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "The unbroken line of authority from the highest level yo the lowest level is called",
+        "options": {
+            "A": "Scalar Chain",
+            "B": "Unity of Command",
+            "C": "Unity of Direction",
+            "D": "All of the above"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is not a provision of Factory Act?",
+        "options": {
+            "A": "Ventilation and temperature",
+            "B": "Lighting",
+            "C": "fixation and revision of minimum wages",
+            "D": "drinking Water"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Initiative includes",
+        "options": {
+            "A": "Employee suggestions",
+            "B": "New ideas",
+            "C": "solution to a problem",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "2"
+    },
+    {
+        "question": "A factory should employ a welfare officer if it is having minimum ....... number of workers",
+        "options": {
+            "A": "150"
+        },
+        "answer": "",
+        "marks": ""
+    },
+    {
+        "answer": "optiond",
+        "marks": "2",
+        "options": {
+            "D": "All of the above"
+        }
+    },
+    {
+        "question": "which of the following function is not a part of staffing activity",
+        "options": {
+            "A": "training and development",
+            "B": "selection and recruitment",
+            "C": "preparing job analysis, job description etc",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "lower level of management has highest percentage of",
+        "options": {
+            "A": "Administration",
+            "B": "Management",
+            "C": "Organization",
+            "D": "All of the above"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "managerial skills can be",
+        "options": {
+            "A": "learned by practice",
+            "B": "improved by giving practical exposure to worker",
+            "C": "of theoretical importance",
+            "D": "A and B both"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "A worker will get overtime wages at the rate of twice his ordinary rate of wage, if he works more than        hours\nin any week.",
+        "options": {},
+        "answer": "",
+        "marks": ""
+    },
+    {
+        "answer": "optionb",
+        "marks": "1",
+        "options": {
+            "C": "Major",
+            "D": "Fatal"
+        }
+    },
+    {
+        "question": "If a Occupier or Manager fails to produce registers or other document on demand by Inspector and prevents any factory worker from being examined by the Inspector he will be punishable with.......",
+        "options": {
+            "A": "Rs. 10000",
+            "B": "Rs. 15000",
+            "C": "Rs. 25000",
+            "D": "Rs. 20000"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "The government of India has set up the second national labour on .................",
+        "options": {
+            "A": "15 th December 1999",
+            "B": "15th October 1999",
+            "C": "17th september 1999",
+            "D": "15th June 19999"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "---------------- is an example of unsafe working condition.",
+        "options": {
+            "A": "Poor discipline at workplace",
+            "B": "Oily surface",
+            "C": "Lack of safety awareness",
+            "D": "Untrained worker"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Carbon dioxide is not used for which class of fire?",
+        "options": {
+            "A": "class A",
+            "B": "Class B",
+            "C": "Class C",
+            "D": "Class E"
+        },
+        "answer": "optiona",
+        "marks": "2"
+    },
+    {
+        "question": "DGMS stand for ........",
+        "options": {
+            "A": "Directorate of Goods for Mining Safety",
+            "B": "Directorate General of Measurement and Safety",
+            "C": "Directorate General of Mines Safety",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Which of the following is a cause of dispute:",
+        "options": {
+            "A": "Economic cause",
+            "B": "Technical Cause",
+            "C": "Social Cause",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Lock-out means:",
+        "options": {
+            "A": "Termination of the service of worker",
+            "B": "refusal of employer to continue to employ workers in his industry",
+            "C": "Closing of place of employment",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Retrenchment does not include.....",
+        "options": {
+            "A": "Voluntary retirement of the worker",
+            "B": "Termination of services on reaching the age of superannuation",
+            "C": "Termination of services on the ground of continued ill health",
+            "D": "All of the above"
+        },
+        "answer": "optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The work committee shall be formed in any industry that have employed minimum .......... workers in preceding 12 months.",
+        "options": {
+            "A": "100",
+            "B": "150",
+            "C": "200",
+            "D": "250"
+        },
+        "answer": "optiona",
+        "marks": "1"
+    },
+    {
+        "question": "A worker having more than one year of continuous service under an employer, if is laid off, shall get compensation equal to ..............",
+        "options": {
+            "A": "40% of the total of his basic wages and dearnessallowance",
+            "B": "40% of the total of his basic wages",
+            "C": "50% of the total of his basic wages and dearnessallowance",
+            "D": "None of the above"
+        },
+        "answer": "optionc",
+        "marks": "1"
+    },
+    {
+        "question": "According to Minimum Wages Act, government may provide a",
+        "options": {
+            "A": "6",
+            "B": "7",
+            "C": "8",
+            "D": "10"
+        },
+        "answer": "optionb",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following activity does not require a work permit?",
+        "options": {
+            "A": "Carrying tools to the tool room",
+            "B": "High risk activity",
+            "C": "Pressure testing",
+            "D": "Work near energized lines"
+        },
+        "answer": "Optiona",
+        "marks": "1"
+    },
+    {
+        "question": "Get the odd one out:",
+        "options": {
+            "A": "Issuer",
+            "B": "Foreman",
+            "C": "Field operator",
+            "D": "Executor"
+        },
+        "answer": "Optionb",
+        "marks": "1"
+    },
+    {
+        "question": "The sole purpose of work permit is:",
+        "options": {
+            "A": "To finish the work quickly",
+            "B": "To avoid accident",
+            "C": "Increase efficiency",
+            "D": "None of the above"
+        },
+        "answer": "Optionb",
+        "marks": "2"
+    },
+    {
+        "question": "The fire drill should be conducted on a :",
+        "options": {
+            "A": "Holiday",
+            "B": "National holiday",
+            "C": "Working day",
+            "D": "None of the above"
+        },
+        "answer": "Optionc",
+        "marks": "1"
+    },
+    {
+        "question": "With reference to a fire drill, which one of the following statement is incorrect?",
+        "options": {
+            "A": "Small fire is created in a fire drill",
+            "B": "Employees get to know causes of fire",
+            "C": "Employees get to know ways of eztinguishing a fire",
+            "D": "All of the above"
+        },
+        "answer": "Optiond",
+        "marks": "2"
+    },
+    {
+        "question": "Get the odd one out:",
+        "options": {
+            "A": "Oil",
+            "B": "Grease",
+            "C": "Acid",
+            "D": "Solvent"
+        },
+        "answer": "Optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Cooling effect of water is essential for:",
+        "options": {
+            "A": "Fire involving ordinary combustible matter",
+            "B": "Fire in flammable liquids",
+            "C": "Fire involving gaseous substances",
+            "D": "Fire involving metal"
+        },
+        "answer": "Optiona",
+        "marks": "1"
+    },
+    {
+        "question": "A blanketing effect is essential for:",
+        "options": {
+            "A": "Fire involving ordinary combustible matter",
+            "B": "Fire in flammable liquids",
+            "C": "Fire involving gaseous substances",
+            "D": "Fire involving metal"
+        },
+        "answer": "Optionb",
+        "marks": "1"
+    },
+    {
+        "question": "It is necessary to dilute the burning gas for:",
+        "options": {
+            "A": "Fire involving ordinary combustible matter",
+            "B": "Fire in flammable liquids",
+            "C": "Fire involving gaseous substances",
+            "D": "Fire involving metal"
+        },
+        "answer": "Optionc",
+        "marks": "1"
+    },
+    {
+        "question": "Special extinguishing medium is essential for:",
+        "options": {
+            "A": "Fire involving ordinary combustible matter",
+            "B": "Fire in flammable liquids",
+            "C": "Fire involving gaseous substances",
+            "D": "Fire involving metal"
+        },
+        "answer": "Optiond",
+        "marks": "1"
+    },
+    {
+        "question": "The electrical nonconductivity of the extinguishing media is important for:",
+        "options": {
+            "A": "Fire involving ordinary combustible matter",
+            "B": "Fire in flammable liquids",
+            "C": "Fire involving gaseous substances",
+            "D": "Fire involving electrical equipment"
+        },
+        "answer": "Optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Get the odd one out:",
+        "options": {
+            "A": "Nitrogen oxide",
+            "B": "Sulphure dioxide",
+            "C": "Carbon dioxide",
+            "D": "Arsenic hydride"
+        },
+        "answer": "Optionc",
+        "marks": "2"
+    },
+    {
+        "question": "Which one of the following is not a mechanical hazard:",
+        "options": {
+            "A": "Improper use of tools",
+            "B": "Improper ventillation",
+            "C": "Unsafe clothing",
+            "D": "Short circuit"
+        },
+        "answer": "Optiond",
+        "marks": "1"
+    },
+    {
+        "question": "Which one of the following is not applicable to Good housekeeping:",
+        "options": {
+            "A": "Minimises discomfort to employees",
+            "B": "Reduces chances of fire",
+            "C": "Refers to cleanliness",
+            "D": "Extinguishes fire"
+        },
+        "answer": "Optiond",
+        "marks": "2"
+    }
+]
